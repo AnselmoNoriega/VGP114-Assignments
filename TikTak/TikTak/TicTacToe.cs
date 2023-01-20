@@ -4,7 +4,7 @@ namespace TicTacToe;
 
 public class TicTacToe : ITicTacToe
 {
-    Player[][] map = new Player[][]
+    Player[][] map = new Player[3][]
         {
         new Player[] { Player.None, Player.None, Player.None},
         new Player[] { Player.None, Player.None, Player.None},
