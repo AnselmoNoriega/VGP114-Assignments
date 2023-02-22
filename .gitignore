@@ -7,5 +7,3 @@
 !/ProjectSettings
 
 # Ignore just ProjectSettings
-!/ProjectSettings/*
-/ProjectSettings/ProjectSettings.asset
