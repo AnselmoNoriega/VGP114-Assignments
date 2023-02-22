@@ -8,6 +8,8 @@ TagManager:
   - CutTime
   - WashTime
   - CookTime
+  - OrderSheet
+  - Score
   layers:
   - Default
   - TransparentFX
