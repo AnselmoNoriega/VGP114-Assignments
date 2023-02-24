@@ -3,5 +3,5 @@
 
 # Except for these:
 !/.gitignore
-!/Assets
-!/ProjectSettings
+!/Overcooked/Assets
+!/Overcooked/ProjectSettings
