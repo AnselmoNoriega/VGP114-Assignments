@@ -1,0 +1,8 @@
+# Ignore Everything
+#/*
+
+# Except for these:
+!/.gitignore
+!/Overcooked
+#!/Overcooked/Assets
+#!/Overcooked/ProjectSettings
