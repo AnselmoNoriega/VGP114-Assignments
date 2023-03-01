@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public enum States
+public enum sStates
 {
     None,
     Unlocked,
